@@ -1,0 +1,2 @@
+[{ "url": "https://www.educoder.net/myshixuns/7695iq2cgr/stages/2awt74zofrpu", "answer":"docker run --name my_container busybox:latest echo \"Hello Docker\""},
+  {"url": "https://www.educoder.net/myshixuns/7695iq2cgr/stages/ghfpsnmxjq9k", "answer":"docker pull busybox:1.27"}]
